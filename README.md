@@ -1,1 +1,1 @@
-## [Click to view my resume](https://nbviewer.jupyter.org/github/LashaGoch/Resume/blob/main/CV_Lasha_Gochiashvili.pdf)
+## [Click to view my resume](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://nbviewer.org/github/LashaGoch/Resume/blob/b42384d7c29ede385a593667e6aa0adff9815dda/Lasha_Gochiashvili_resume.pdf)
